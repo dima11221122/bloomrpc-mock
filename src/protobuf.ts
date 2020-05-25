@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import {GrpcObject, loadPackageDefinition} from 'grpc';
+import {GrpcObject, loadPackageDefinition} from '@grpc/grpc-js';
 import get = require('lodash/get');
 import * as path from 'path';
 import {

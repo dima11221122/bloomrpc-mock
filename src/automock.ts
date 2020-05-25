@@ -1,4 +1,4 @@
-import {UntypedServiceImplementation} from 'grpc';
+import {UntypedServiceImplementation} from '@grpc/grpc-js';
 import {Enum, Field, MapField, Message, OneOf, Service, Type} from 'protobufjs';
 import * as uuid from 'uuid';
 
